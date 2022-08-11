@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ezara\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ezara\\.nuget\\packages"
+    ]
+  }
+}
